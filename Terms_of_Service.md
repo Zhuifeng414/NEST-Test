@@ -11,7 +11,7 @@ Welcome to **NEST-Test**. These Terms of Service ("Terms") govern your use of ou
 
 ## 2. Data Collection and Privacy
 - NEST-Test may collect limited **WhatsApp Business account details**, **message logs**, and **usage data** for debugging and improvement purposes.
-- Our handling of data is outlined in our **[Privacy Policy](https://github.com/Zhuifeng414/NEST-Test/blob/main/Privacy%20Policy)**.
+- Our handling of data is outlined in our **[Privacy Policy](https://github.com/Zhuifeng414/NEST-Test/Privacy_Policy)**.
 - We do not share your data with third parties or use it for commercial purposes.
 
 ## 3. User Conduct
@@ -32,7 +32,7 @@ We may terminate or restrict your access to NEST-Test at any time if:
 - We determine that continued access is no longer feasible.
 
 ## 6. Changes to These Terms
-We may update these Terms from time to time. The latest version will always be available at **[https://github.com/Zhuifeng414/NEST-Test/blob/main/Terms%20of%20Service]**. Continued use of NEST-Test constitutes acceptance of any updates.
+We may update these Terms from time to time. The latest version will always be available at **[https://zhuifeng414.github.io/NEST-Test/Terms_of_Service]**. Continued use of NEST-Test constitutes acceptance of any updates.
 
 ---
 
